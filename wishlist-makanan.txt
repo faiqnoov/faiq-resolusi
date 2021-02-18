@@ -1,5 +1,6 @@
 daftar makanan :
 - nasi gorang
+- terang bulan
 - ayam panggang
 - ayam geprek
 - kebab
