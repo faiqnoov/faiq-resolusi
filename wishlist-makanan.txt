@@ -2,3 +2,5 @@ daftar makanan :
 - nasi gorang
 - ayam panggang
 - ayam geprek
+- tahu campur
+- kebab
